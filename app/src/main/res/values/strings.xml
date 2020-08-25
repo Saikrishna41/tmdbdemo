@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThatMovieDemo</string>
+    <string name="connection_prob">connection Problem!</string>
+</resources>
